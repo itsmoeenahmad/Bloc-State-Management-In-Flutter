@@ -1,4 +1,3 @@
 # flutterbloc
 
-A project, where i'm learning and implementing the flutter_bloc concepts from the Akshit Madan
-Youtuber.
+This project provides a beginner-friendly example of using the BLoC (Business Logic Component) pattern in flutter. Explore how to manage state effectively, promoting a clean separation of UI and business logic.
